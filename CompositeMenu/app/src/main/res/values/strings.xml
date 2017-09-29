@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CompositeMenu</string>
+    <string name="text_mostrar_orden">Mostrar Orden</string>
+    <string name="text_agregar_platillo">Agregar Platillos</string>
+    <string-array name="menus">
+        <item >Desayuno</item>
+        <item >Comida</item>
+        <item >Cena</item>
+    </string-array>
+    <string-array name="menu_disponible">
+        <item>Huevos a la Mexicana</item>
+        <item>Chilaquiles</item>
+        <item>Jugo de Naranja</item>
+        <item>Coctel de frutas</item>
+        <item>Hotcakes</item>
+        <item>Crepas</item>
+    </string-array>
+</resources>
